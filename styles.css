@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(122, 18, 126);
+    font-size: 24px;
+}
+p {
+    color: rgb(2, 81, 83);
+    font-size: 16px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
